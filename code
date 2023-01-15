@@ -11,15 +11,15 @@ namespace jun1
         static void Main(string[] args)
         {
             int age = 18;
-            double usd = 71.5;
-            bool putinIsPresident = true;
-            string pismo = "Я написал письмо Деду Морозу";
-            char vosklitsatelnyiZnak = '!';
+            double usdToRub = 71.5;
+            bool isPutinPresident = true;
+            string letter = "Я написал письмо Деду Морозу";
+            char exclamationMark = '!';
             uint money = 30000;
             long distance = 1356;
-            short anekdoti = 20;
+            short anecdotes = 20;
             ulong score;
-            ushort strokiVPesne = 234;
+            ushort stringsInSong = 234;
         }
     }
 }
