@@ -1,0 +1,25 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace jun1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int age = 18;
+            double usd = 71.5;
+            bool putinIsPresident = true;
+            string pismo = "Я написал письмо Деду Морозу";
+            char vosklitsatelnyiZnak = '!';
+            uint money = 30000;
+            long distance = 1356;
+            short anekdoti = 20;
+            ulong score;
+            ushort strokiVPesne = 234;
+        }
+    }
+}
